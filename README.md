@@ -29,6 +29,6 @@ vagrant up
 
 Востановление из бэкапа:
 
-![alt text](/screenshots/hw27-4.png?raw=true "Screenshot5")
+![alt text](/screenshots/hw27-5.png?raw=true "Screenshot5")
 
-![alt text](/screenshots/hw27-4.png?raw=true "Screenshot6")
+![alt text](/screenshots/hw27-6.png?raw=true "Screenshot6")
